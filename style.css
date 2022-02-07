@@ -1,0 +1,285 @@
+body {
+  overflow-x: hidden;
+}
+
+a {
+  text-decoration: none;
+}
+
+.r-f-24 {
+  font-size: 24px !important;
+}
+
+.r-blue {
+  color: #004167;
+}
+
+.row {
+  margin: 0;
+}
+
+.col-half-offset {
+  margin-left: 4.166666667%;
+}
+
+.r-p-0 {
+  padding: 0;
+}
+
+.r-bg-gray {
+  background-color: #f9f9f9;
+}
+
+.r-bg-green {
+  background-color: #86A213 !important;
+  color: #fff;
+}
+
+.r-bg-blue {
+  background-color: #004167 !important;
+  color: #fff;
+}
+
+.r-bg-magenta {
+  background-color: #8D004B !important;
+  color: #fff;
+}
+
+.r-magenta {
+  color: #8D004B;
+}
+
+.r-mt-200 {
+  margin-top: 200px;
+}
+
+.r-mt-150 {
+  margin-top: 150px;
+}
+
+.r-mt-86 {
+  margin-top: 68.63px;
+}
+
+.r-w-90 {
+  width: 90%;
+}
+
+.r-buttons a {
+  text-decoration: none;
+  color: white;
+}
+.r-buttons .text-center {
+  line-height: 44px;
+}
+.r-buttons .col-12 {
+  padding: 30px;
+}
+
+.r-button {
+  border-radius: 7.98px;
+  padding: 23.94px 14.38px;
+  font-size: 20px;
+  margin-bottom: 30px;
+  position: relative;
+  display: flex;
+}
+.r-button img {
+  width: 20%;
+  height: 50.75px;
+}
+
+.r-main .navbar-brand img {
+  width: 228.22px;
+}
+.r-main .nav-link {
+  color: #004167 !important;
+}
+.r-main .nav-link div {
+  text-align: center;
+}
+.r-main .nav-link img {
+  width: 75.01px;
+  height: 75.01px;
+}
+.r-main .navbar-nav {
+  margin-left: 248.97px;
+}
+
+.r-secondary .nav-link {
+  color: #fff !important;
+}
+.r-secondary .dropdown {
+  text-align: center;
+}
+.r-secondary .dropdown-toggle {
+  line-height: 24.74px;
+}
+.r-secondary .dropdown-toggle:after {
+  display: none;
+}
+.r-secondary .dropdown-toggle img {
+  width: 24.74px;
+}
+.r-secondary .dropdown-menu[data-bs-popper] {
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #8D004B;
+}
+.r-secondary .dropdown-menu[data-bs-popper] .dropdown-item {
+  color: white;
+}
+.r-secondary .dropdown-menu[data-bs-popper] .dropdown-item:hover {
+  background-color: #8D004B;
+}
+
+.r-banner {
+  background-image: url("../images/background.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 600px;
+  color: #004167;
+  font-size: 51.07px;
+  text-align: center;
+}
+
+.r-section-title {
+  font-size: 38.3px;
+  text-align: center;
+}
+
+.r-button-2 {
+  border-radius: 7.98px;
+  margin-top: 10px;
+  font-size: 16px;
+  padding: 12px 60px;
+  margin-bottom: 0;
+}
+
+.r-news {
+  position: relative;
+  padding-top: 150px;
+  background-image: url("../images/bg-circle.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.r-news .r-news-section-title {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: rgba(141, 0, 75, 0.1);
+  color: #004167;
+  padding-right: 97px;
+  padding-left: 20px;
+  font-size: 38.3px;
+}
+.r-news .row .col-lg-9 {
+  display: flex;
+  align-items: center;
+}
+
+.r-no-bg {
+  background-image: url() !important;
+}
+
+.r-footer {
+  margin-top: 280px;
+  padding: 30px;
+  border-top: 2px solid #004167;
+}
+
+.r-footer-list {
+  text-decoration: none;
+  list-style: none;
+  padding: 0;
+}
+
+.r-footer-links {
+  color: #8D004B;
+  font-weight: 600;
+  margin-bottom: 28px;
+}
+
+.r-list-name {
+  color: #004167;
+  font-weight: 600;
+  margin-bottom: 28px;
+}
+
+.r-bottom-text {
+  color: #004167;
+  margin-bottom: 50px;
+}
+
+.r-gasket-button {
+  width: 100%;
+  padding: 10px 20px;
+  margin-bottom: 0;
+}
+
+.r-gaskets {
+  margin-top: 100px;
+}
+
+.r-gasket-drop {
+  padding: 10px 10px;
+  border-radius: 10px;
+  box-shadow: 0px 3.19189px 3.19189px rgba(0, 0, 0, 0.25);
+}
+.r-gasket-drop .d-flex img {
+  margin-left: 10px;
+}
+
+.r-gasket-img {
+  width: 200px;
+  margin-bottom: 50px;
+}
+
+.r-gasket-buttons {
+  margin-top: 200px;
+  padding-top: 100px;
+}
+.r-gasket-buttons .col-lg-6 {
+  margin-bottom: 100px;
+}
+
+@media (min-width: 1025px) {
+  .news-2-img {
+    margin-left: 40px;
+  }
+
+  .news-1-img {
+    margin-right: 40px;
+  }
+
+  .r-news {
+    padding-top: 200px;
+  }
+
+  .r-button img {
+    width: 58px;
+  }
+
+  .r-footer-list {
+    padding-left: 100px;
+  }
+
+  .r-list-name {
+    padding-left: 100px;
+  }
+
+  .r-gasket-buttons .col-lg-6 {
+    padding-right: 100px;
+  }
+
+  .r-pl-30 {
+    padding-left: 30px !important;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
